@@ -29,11 +29,10 @@ Let's leave this as simple as possible.
 
 ```json
 {
-  "best_things":
-  {
-  "text_editor": "vim",
-  "juicy_lucy": "5-8 club",
-  "football_team": "green bay packers"
+  "best_things": {
+    "text_editor": "vim",
+    "juicy_lucy": "5-8 club",
+    "football_team": "green bay packers"
   }
 }
 ```
