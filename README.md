@@ -19,8 +19,8 @@ Let's leave this as simple as possible.
 
 ## Useful Tools
 * [Git Bash](https://git-scm.com/download/win) is the best way to handle Git repositories on Windows aside from using an IDE.
-* [Atom](https://atom.io/) is the IDE that Holden prefers to use when a GUI is required.  
-* [Visual Studio Code](https://code.visualstudio.com/) is probably the most popular IDE, especially at HP.  Holden just likes Atom better.
+* [Atom](https://atom.io/) is the IDE that Holden prefers to use when a GUI is required.  Git support built in, very extendable.
+* [Visual Studio Code](https://code.visualstudio.com/) is probably the most popular IDE, especially at HP.  Holden just likes Atom better.  Same as Atom, very extendable via. installable plugins.
 
 ## Useful Links
 * [Roger Dudler's Guide](http://rogerdudler.github.io/git-guide/)  This is a great guide to Git.  It has swearing.  I will not recommend you read it at work because swear words are bad.  
