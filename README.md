@@ -4,16 +4,6 @@ silly repo for demonstrating some git stuff.
 
 ## json code block for demoing merge conflicts.
 
-```json
-{
-  "best_things":
-  {
-  "text_editor": "vim",
-  "juicy_lucy": "5-8 club",
-  "football_team": "green bay packers"
-  }
-}
-```
 ## Commonly Used Commands
 * `git clone` - Pull down a git repository into your current working directory.  To pull this repo: `git clone https://github.com/Freeze/hp-git-demo.git`
 * `git add` - Start "tracking" a file with git.  `git add new_file.txt`
@@ -36,3 +26,14 @@ Let's leave this as simple as possible.
 
 ## Useful Links
 * [Roger Dudler's Guide](http://rogerdudler.github.io/git-guide/)  This is a great guide to Git.  It has swearing.  I will not recommend you read it at work because swear words are bad.  
+
+```json
+{
+  "best_things":
+  {
+  "text_editor": "vim",
+  "juicy_lucy": "5-8 club",
+  "football_team": "green bay packers"
+  }
+}
+```
