@@ -25,7 +25,7 @@ Let's leave this as simple as possible.
 ## Useful Links
 * [Roger Dudler's Guide](http://rogerdudler.github.io/git-guide/)  This is a great guide to Git.  It has swearing.  I will not recommend you read it at work because swear words are bad.  
 
-## json code block for demoing merge conflicts.
+## json code block for demoing out of date repository.
 ```json
 {
   "best_things": {
