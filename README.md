@@ -13,8 +13,8 @@ silly repo for demonstrating some git stuff.
 ```
 
 ## Useful Tools
-* [Git Bash](281439193f9ed38b6496693aa8ec54f0ee39d994) is the best way to handle Git repositories on Windows aside from using an IDE.
-* [Atom](281439193f9ed38b6496693aa8ec54f0ee39d994) is the IDE that Holden prefers to use when a GUI is required.  
+* [Git Bash](https://git-scm.com/download/win) is the best way to handle Git repositories on Windows aside from using an IDE.
+* [Atom](https://atom.io/) is the IDE that Holden prefers to use when a GUI is required.  
 * [Visual Studio Code](https://code.visualstudio.com/) is probably the most popular IDE, especially at HP.  Holden just likes Atom better.
 
 ## Useful Links
