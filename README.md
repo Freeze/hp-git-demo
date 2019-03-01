@@ -1,8 +1,6 @@
-# hp-git-demo
-silly repo for demonstrating some git stuff.  
+# Holden's Simple Git Reference
+Brief Overview of how I use git without going into too much detail.
 
-
-## json code block for demoing merge conflicts.
 
 ## Commonly Used Commands
 * `git clone` - Pull down a git repository into your current working directory.  To pull this repo: `git clone https://github.com/Freeze/hp-git-demo.git`
@@ -27,6 +25,7 @@ Let's leave this as simple as possible.
 ## Useful Links
 * [Roger Dudler's Guide](http://rogerdudler.github.io/git-guide/)  This is a great guide to Git.  It has swearing.  I will not recommend you read it at work because swear words are bad.  
 
+## json code block for demoing merge conflicts.
 ```json
 {
   "best_things": {
