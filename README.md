@@ -29,9 +29,9 @@ Let's leave this as simple as possible.
 ```json
 {
   "best_things": {
-    "text_editor": "vim",
-    "juicy_lucy": "5-8 club",
-    "football_team": "green bay packers"
+    "text_editor": "notepad",
+    "juicy_lucy": "luckys...?",
+    "football_team": "da bears"
   }
 }
 ```
